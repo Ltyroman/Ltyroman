@@ -1,16 +1,18 @@
-## Hi there 👋
+资源：
 
-<!--
-**Ltyroman/Ltyroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> github统计卡片：https://github.com/anuraghazra/github-readme-stats/blob/master/docs/read_cn.md
+>
+> 显示最近动态：https://github.com/jamesgeorge007/github-activity-readme
+>
+> 其他工具：https://github.com/ryo-ma/github-profile-trophy/blob/master/README.md
+>
+> 
+>
+> github统计数据(奖杯形式)：https://github.com/ryo-ma/github-profile-trophy/blob/master/README.md
+>
+> eomji表情：https://www.webfx.com/tools/emoji-cheat-sheet/
+>
+> 小按钮：https://shields.io/
+>
+> 装饰图标：https://simpleicons.org/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
