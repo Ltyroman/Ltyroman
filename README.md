@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/origin-000?&logo=origin)![](https://img.shields.io/badge/Markdown-000?&logo=markdown)![](https://img.shields.io/badge/Latex-000?&logo=latex)![](https://img.shields.io/badge/Xmind-000?&logo=minds)
 
 
-![GitHub Stats](https://github-readme-stats-ecru.vercel.app/api?username=ltyroman&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-ecru.vercel.app/api?username=ltyroman&show_icons=true&theme=radical&count_private=true&disable_animations=true)
 
 
 
@@ -30,6 +30,7 @@
 
 
 
-<img height="137px" src="https://github-readme-stats-ecru.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+![GitHub Stats](https://github-readme-stats-ecru.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)
+
 
 
