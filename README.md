@@ -24,24 +24,25 @@
 
 
 
-<a><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ltyroman&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltyroman&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ltyroman" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltyroman" />
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ltyroman)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltyroman)
 
 
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ltyroman&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltyroman&stats_format=bytes)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+
 
 
 
