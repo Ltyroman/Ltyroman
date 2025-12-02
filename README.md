@@ -27,7 +27,7 @@
 <a><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltyroman&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltyroman" />
+
 
 
 
@@ -38,7 +38,7 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltyroman)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
@@ -47,16 +47,28 @@
 
 
 
+## 基础统计github-readme-stats
+![GitHub Stats](https://github-readme-stats-ten-sage.vercel.app/api?username=ltyroman&show_icons=true&theme=radical)
 
-<!-- 备用域名1 -->
-![Stats](https://github-readme-stats-ten-sage.vercel.app/api?username=ltyroman)
+## 语言统计github-readme-stats
+![Top Langs](https://github-readme-stats-ten-sage.vercel.app/api/top-langs/?username=ltyroman&layout=compact&hide=html,css,scss&lang_count=6&theme=radical)
 
-<!-- 备用域名2 -->
-![Stats](https://github-readme-stats-ecru.vercel.app/api?username=ltyroman)
+## 贡献统计github-contribution-stats
+![Contribution](https://github-contribution-stats.vercel.app/api/?username=ltyroman)
 
-<!-- 备用域名3 -->
-![Stats](https://github-readme-stats-sigma.vercel.app/api?username=ltyroman)
+## 奖杯墙github-profile-trophy
+![Trophy](https://github-profile-trophy.vercel.app/?username=ltyroman&theme=gruvbox&column=7)
 
+
+
+## 其他：GitHub Profile Summary Cards
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltyroman&theme=github_dark)
+
+## 其他：GitHub Stats Card (另一个项目)
+![Stats](https://github-stats-alpha.vercel.app/api?username=ltyroman)
+
+## 其他：GitHub Contribution Graph
+![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=ltyroman&theme=github)
 
 
 
