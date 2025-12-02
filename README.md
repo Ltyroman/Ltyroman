@@ -81,6 +81,23 @@
 
 
 
+<!-- 测试1：最基础的语言统计 -->
+![基础统计](https://github-readme-stats.vercel.app/api/top-langs/?username=ltyroman)
+
+<!-- 测试2：其他服务的语言统计 -->
+![Alt](https://github-stats-alpha.vercel.app/api/top-langs/?username=ltyroman)
+
+<!-- 测试3：卡片式语言分布 -->
+![Lang Cards](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ltyroman)
+
+<!-- 测试4：排除更多文件类型 -->
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ltyroman&exclude=html,css,scss,json,yaml,md)
+
+
+
+
+
+
 
 
 
