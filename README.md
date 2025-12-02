@@ -29,8 +29,6 @@
 
 
 
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltyroman&count_private=true)
 
 
@@ -48,10 +46,10 @@
 
 
 ## 基础统计github-readme-stats
-![GitHub Stats](https://github-readme-stats-ten-sage.vercel.app/api?username=ltyroman&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-ecru.vercel.app/api?username=ltyroman&show_icons=true&theme=radical)
 
 ## 语言统计github-readme-stats
-![Top Langs](https://github-readme-stats-ten-sage.vercel.app/api/top-langs/?username=ltyroman&layout=compact&hide=html,css,scss&lang_count=6&theme=radical)
+![Top Langs](https://github-readme-stats-ecru.vercel.app/api/top-langs/?username=ltyroman&layout=compact&hide=html,css,scss&lang_count=6&theme=radical)
 
 ## 贡献统计github-contribution-stats
 ![Contribution](https://github-contribution-stats.vercel.app/api/?username=ltyroman)
@@ -69,6 +67,7 @@
 
 ## 其他：GitHub Contribution Graph
 ![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=ltyroman&theme=github)
+
 
 
 
