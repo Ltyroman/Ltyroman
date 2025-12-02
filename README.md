@@ -22,4 +22,5 @@
 ![](https://img.shields.io/badge/origin-000?&logo=origin)![](https://img.shields.io/badge/Markdown-000?&logo=markdown)![](https://img.shields.io/badge/Latex-000?&logo=latex)![](https://img.shields.io/badge/Xmind-000?&logo=minds)
 
 
-![GitHub Stats](https://github-readme-stats-ecru.vercel.app/api?username=ltyroman&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-ecru.vercel.app/api?username=ltyroman&show_icons=true&theme=radical&count_private=true)
+
